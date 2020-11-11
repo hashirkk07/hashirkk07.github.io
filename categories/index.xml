@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on InfoSec IIT Goa | Home</title>
+    <link>https://infosec-iitgoa.netlify.app/categories/</link>
+    <description>Recent content in Categories on InfoSec IIT Goa | Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>[YouTube](https://www.youtube.com/channel/UCERghQSAf19ebaPDch0JFnQ) | [LinkedIn](https://www.linkedin.com/company/infosec-iit-goa/) | [Twitter](https://twitter.com/infoseciitgoa) | [Instagram](https://www.instagram.com/infosec_iitgoa/)</copyright>
+    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://infosec-iitgoa.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://infosec-iitgoa.netlify.app/categories/artificial-intelligence/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://infosec-iitgoa.netlify.app/categories/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Company News</title>
+      <link>https://infosec-iitgoa.netlify.app/categories/company-news/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://infosec-iitgoa.netlify.app/categories/company-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Legacy Support</title>
+      <link>https://infosec-iitgoa.netlify.app/categories/legacy-support/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://infosec-iitgoa.netlify.app/categories/legacy-support/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

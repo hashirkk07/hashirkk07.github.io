@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on InfoSec IIT Goa | Home</title>
+    <link>https://infosec-iitgoa.netlify.app/tags/news/</link>
+    <description>Recent content in News on InfoSec IIT Goa | Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>[YouTube](https://www.youtube.com/channel/UCERghQSAf19ebaPDch0JFnQ) | [LinkedIn](https://www.linkedin.com/company/infosec-iit-goa/) | [Twitter](https://twitter.com/infoseciitgoa) | [Instagram](https://www.instagram.com/infosec_iitgoa/)</copyright>
+    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://infosec-iitgoa.netlify.app/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How To Wear Bright Shoes</title>
+      <link>https://infosec-iitgoa.netlify.app/blog/blog-post-6/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://infosec-iitgoa.netlify.app/blog/blog-post-6/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+    </item>
+    
+  </channel>
+</rss>
